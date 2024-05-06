@@ -1,0 +1,1 @@
+this is new line od file 3.txt
